@@ -4,7 +4,7 @@
 - Colocá-lo em uma pasta, como "Link-Car";
 - Na mesma pasta, criar um arquivo .txt chamado "credenciais";
 - Neste arquivo, colocar suas credenciais de login do Oracle SQL Developer, no seguinte formato (sem as aspas):
-  USER123
-  SENHA
-  localhost/NOME DO SERVIÇO (ou xe)
+- USER123
+- SENHA
+- localhost/NOME DO SERVIÇO (ou xe)
 - Rodar o arquivo .py.
